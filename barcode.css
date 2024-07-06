@@ -7,7 +7,7 @@ html {
 
 main img {
     max-width: 100%;
-    border-radius: .75 rem;
+    border-radius:.75rem;
 }
 
 body {
@@ -38,7 +38,7 @@ main {
     border: 1px solid white; 
     border-radius: 1rem;
     width: 15.6rem;
-    padding: 1rem, 1rem, 1.5rem, 1rem;
+    padding: 1rem 1rem 1.5rem 1rem;
     background-color: hsl(0, 0%, 100%);
     transition: box-shadow .5s;
 }
